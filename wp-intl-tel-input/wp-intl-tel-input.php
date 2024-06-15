@@ -4,7 +4,7 @@ Plugin Name: Country Dropdown For CF7
 Description: This plugins add country dropdown to the Contact Form 7 phone field using intl-tel-input library.
 Version: 1.0.0
 Author: Vishwajeet Guru
-Author URI: https://chatgpt.com/g/g-6cqBCrKTn-wp-plugin-architect
+Author URI: https://vishwajeetguru.com/
 Text Domain: wp-intl-tel-input
 */
 
