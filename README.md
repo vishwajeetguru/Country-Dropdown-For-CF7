@@ -1,7 +1,3 @@
-Sure! Here is a step-by-step user documentation for the "Country Dropdown For CF7" plugin.
-
----
-
 # Country Dropdown For CF7 Plugin
 
 **Version**: 1.0.0  
@@ -108,7 +104,3 @@ Once the plugin is configured and the phone field is added to the form, your use
 
 ### Can I use this plugin with other forms besides Contact Form 7?
 - This plugin is specifically designed for Contact Form 7. For other forms, custom integration would be required.
-
----
-
-By following this documentation, users should be able to install, configure, and use the "Country Dropdown For CF7" plugin effectively.
